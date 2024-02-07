@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Full Stake technologies and DevOps**<br><br>👨‍💻 All of my projects are available at [https://github.com/SriDinu](https://github.com/DinushanSriskandaraja)<br><br>📫 How to reach me **dinushansriskandaraja@gmail.com**
+🌱 I’m currently learning **Full Stake technologies and DevOps**<br><br>👨‍💻 All of my projects are available at [https://github.com/DinushanSriskandaraja](https://github.com/DinushanSriskandaraja)<br><br>📫 How to reach me **dinushansriskandaraja@gmail.com**
 
 
 ## 🌐 Socials:
